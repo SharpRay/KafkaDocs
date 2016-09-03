@@ -9,7 +9,7 @@
 * [2. API](2API/README.md)
     * [2.1 Producer API](2API/2.1PoducerAPI.md)
     * [2.2 Consumer API](2API/2.2ConsumerAPI.md)
-        * [2.2.1 Old High Level Consumer API](2API/2.2ConsumenAPI/2.2.1OldHighLevelConsumerAPI,md)
+        * [2.2.1 Old High Level Consumer API](2API/2.2ConsumenAPI/2.2.1OldHighLevelConsumerAPI.md)
         * [2.2.2 Old Simple Consumer API](2API/2.2ConsumerAPI/2.2.2SimpleConsumerAPI.md)
         * [2.2.3 New Consumer API](2API/2.2ConsumerAPI/2.2.3NewConsumerAPI.md)
     * [2.3 Streams API](2API/2.3StreamsAPI.md)
